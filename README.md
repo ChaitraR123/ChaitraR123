@@ -8,12 +8,7 @@
 
 - 🌱 I’m currently learning **Angular,Dot Net Core**
 
-<p>
-  - 📫 The best way to reach me  is <a href="https://linkedin.com/in/www.linkedin.com/in/
-chaitra-r-5793351aa" target="linkedin"> LinkedIn</a>. You can also send me an email to <a href="Chaitrar29794@gmail.com" target="email">Chaitrar29794@gmail.com.
-</p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitrar123" alt="chaitrar123" /></a> </p>
+- 📫 You can send me an email to **Chaitrar29794@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +23,8 @@ chaitra-r-5793351aa" target="linkedin"> LinkedIn</a>. You can also send me an em
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chaitrar123&show_icons=true&locale=en" alt="chaitrar123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chaitrar123&" alt="chaitrar123" /></p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitrar123" alt="chaitrar123" /></a> </p>
+
+
