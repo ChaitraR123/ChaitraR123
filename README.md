@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)]
+[![MasterHead]()]
 <h1 align="center">Hi 👋, I'm Chaitra R</h1>
 <h3 align="center">A passionate Dot Net developer from India</h3>
 
@@ -6,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaitrar123&label=Profile%20views&color=0e75b6&style=flat" alt="chaitrar123" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitrar123" alt="chaitrar123" /></a> </p>
-
 - 🌱 I’m currently learning **Angular,Dot Net Core**
 
-- 📫 How to reach me **Chaitrar29794@gmail.com**
+<p>
+  - 📫 The best way to reach me  is <a href="https://linkedin.com/in/www.linkedin.com/in/
+chaitra-r-5793351aa" target="linkedin"> LinkedIn</a>. You can also send me an email to <a href="Chaitrar29794@gmail.com" target="email">Chaitrar29794@gmail.com.
+</p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitrar123" alt="chaitrar123" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
