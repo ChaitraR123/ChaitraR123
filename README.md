@@ -1,6 +1,6 @@
 [![MasterHead]()]
-<h1 align="center">Hi 👋, I'm Chaitra R</h1>
-<h3 align="center">A passionate Dot Net developer from India</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">Thank you for visiting my profile. This is Chaitra R. A passionate Dot Net developer from India. I love coding.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
