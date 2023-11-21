@@ -1,4 +1,3 @@
-[![MasterHead]()]
 <h1 align="center">Hi there👋</h1>
 <h3 align="center">Thank you for visiting my profile. This is Chaitra R. A passionate Dot Net developer from India. </h3>
 
